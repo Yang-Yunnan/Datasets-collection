@@ -9,7 +9,8 @@ A curated list of useful datasets with links and descriptions
 - **Title:** [Singapore’s 3rd National Climate Change Study (V3).PDF](https://www.nea.gov.sg/docs/default-source/envision/cisr/v3-brochure.pdf)  
 - **Description:** High-resolution climate dataset from NEA Singapore.  
 - **Variables:** Rainfall, Temperature, Winds, Relative Humidity  
-- **Spatial Resolution:** 2 km and 8 km  
+- **Spatial Resolution:** 2 km and 8 km
+- **Access Portal:** [NSCC User Portal](https://user.nscc.sg/saml/)
 
 ### CHIRPS v3
 - **Data website:** [CHIRPS v3](https://www.chc.ucsb.edu/data)  
