@@ -1,6 +1,7 @@
 # Datasets-collection
 A curated list of useful datasets with links and descriptions
 
+---
 
 ## 🌍 Observation - High Resolution
 
@@ -15,4 +16,16 @@ A curated list of useful datasets with links and descriptions
 - **Description:** Spanning 60°N–60°S (and all longitudes), starting in 1981 to near present. CHIRPS v3 incorporates 0.05° resolution satellite imagery with in-situ station data to create a gridded rainfall time series.  
 - **Spatial Resolution:** 0.05°  
 - **Variables:** Rainfall  
+
+---
+
+## 📊 Data Sources
+
+- **Earth System Science Data**: [https://www.earth-system-science-data.net/](https://www.earth-system-science-data.net/)  
+  Peer-reviewed journal focusing on open-access Earth system datasets.
+
+- **Scientific Data**: [https://www.nature.com/sdata/](https://www.nature.com/sdata/)  
+  Open-access journal publishing descriptions of scientifically valuable datasets.
+
+---
 
