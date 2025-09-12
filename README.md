@@ -3,7 +3,7 @@ A curated list of useful datasets with links and descriptions
 
 ---
 
-# 🌍 Observation - High Resolution
+# 🛰️ Observation - High Resolution
 
 ## CHIRPS v3
 - **Data website:** [CHIRPS v3](https://www.chc.ucsb.edu/data)  
@@ -34,14 +34,12 @@ A curated list of useful datasets with links and descriptions
 - **Access Portal:** [NSCC User Portal](https://user.nscc.sg/saml/)
 
 ---
----
 
-# 🌍 Projection - Low Resolution
+#  Projection - Low Resolution
 
 ## ERA5
 - **Data website:** [ERA5 - Copernicus Climate Data Store](https://cds.climate.copernicus.eu/datasets?q=era5&kw=Variable+domain%3A+Atmosphere+%28surface%29&kw=Variable+domain%3A+Atmosphere+%28upper+air%29&kw=Variable+domain%3A+Atmosphere+%28upper+level%29&kw=Variable+domain%3A+Ocean+%28physics%29)
-
----
+  
 ---
 
 # 📊 Data Sources
