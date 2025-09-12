@@ -5,13 +5,6 @@ A curated list of useful datasets with links and descriptions
 
 # 🌍 Observation - High Resolution
 
-## V3 Dataset
-- **Title:** [Singapore’s 3rd National Climate Change Study (V3).PDF](https://www.nea.gov.sg/docs/default-source/envision/cisr/v3-brochure.pdf)  
-- **Description:** High-resolution climate dataset from NEA Singapore.  
-- **Variables:** Rainfall, Temperature, Winds, Relative Humidity  
-- **Spatial Resolution:** 2 km and 8 km
-- **Access Portal:** [NSCC User Portal](https://user.nscc.sg/saml/)
-
 ## CHIRPS v3
 - **Data website:** [CHIRPS v3](https://www.chc.ucsb.edu/data)  
 - **Variables:** Rainfall  
@@ -32,7 +25,23 @@ A curated list of useful datasets with links and descriptions
 - **Potential caveats:**  
   - May underestimate short-term extreme precipitation.  
   - May smooth intra-pentad variability.
- 
+
+ ## V3 Dataset
+- **Title:** [Singapore’s 3rd National Climate Change Study (V3).PDF](https://www.nea.gov.sg/docs/default-source/envision/cisr/v3-brochure.pdf)  
+- **Description:** High-resolution climate dataset from NEA Singapore.  
+- **Variables:** Rainfall, Temperature, Winds, Relative Humidity  
+- **Spatial Resolution:** 2 km and 8 km
+- **Access Portal:** [NSCC User Portal](https://user.nscc.sg/saml/)
+
+---
+---
+
+# 🌍 Projection - Low Resolution
+
+## ERA5
+- **Data website:** [ERA5 - Copernicus Climate Data Store](https://cds.climate.copernicus.eu/datasets?q=era5&kw=Variable+domain%3A+Atmosphere+%28surface%29&kw=Variable+domain%3A+Atmosphere+%28upper+air%29&kw=Variable+domain%3A+Atmosphere+%28upper+level%29&kw=Variable+domain%3A+Ocean+%28physics%29)
+
+---
 ---
 
 # 📊 Data Sources
