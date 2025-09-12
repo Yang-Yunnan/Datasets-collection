@@ -39,6 +39,7 @@ A curated list of useful datasets with links and descriptions
 
 ## ERA5
 - **Data website:** [ERA5 - Copernicus Climate Data Store](https://cds.climate.copernicus.eu/datasets)
+- **CP & LSP: ** (https://cds.climate.copernicus.eu/datasets/derived-era5-single-levels-daily-statistics?tab=download)
   
 ---
 
